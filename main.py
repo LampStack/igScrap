@@ -1,5 +1,4 @@
 import json, httpx
-from typing import Dict
 from urllib.parse import quote
 
 class igScrap:
